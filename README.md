@@ -1,3 +1,5 @@
+适配了ubuntu20.04，ceres1.19，OpenCV4.2，cmake4.0.3
+
 # VINS-Fusion
 ## An optimization-based multi-sensor state estimator
 
